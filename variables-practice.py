@@ -50,8 +50,6 @@ conversion_factor=2.54
 book_price=20.99
 print(conversion_factor)
 
-print('Arden Boettcher')
-print('Traverse City')
-print(my_age)
+print('Arden Boettcher, who is (my_age) years old, lives in Traverse city'
 
 # I tested it in vs and it works
