@@ -38,7 +38,7 @@
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
 
-#assignment starts here
+# assignment starts here
 
 school='Career Tech'
 favorite_singer='Remi Wolf'
@@ -48,8 +48,10 @@ print(greeting)
 my_age=16
 conversion_factor=2.54
 book_price=20.99
-print(my_age)
+print(conversion_factor)
 
 print('Arden Boettcher')
 print('Traverse City')
-print('16')
+print(my_age)
+
+# I tested it in vs and it works
