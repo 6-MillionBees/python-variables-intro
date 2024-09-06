@@ -37,3 +37,19 @@
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+#assignment starts here
+
+school='Career Tech'
+favorite_singer='Remi Wolf'
+greeting='hello'
+print(greeting)
+
+my_age=16
+conversion_factor=2.54
+book_price=20.99
+print(my_age)
+
+print('Arden Boettcher')
+print('Traverse City')
+print('16')
